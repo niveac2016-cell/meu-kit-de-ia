@@ -85,13 +85,14 @@ Sucesso: um README em Markdown que eu consiga colar direto no repositório do pe
 
 ### O Plano da IA
 
-_[Cole aqui o print do plano]_
+<img width="547" height="555" alt="WhatsApp Image 2026-11-22 at 18 36 49" src="https://github.com/user-attachments/assets/0ee2db69-1be9-4458-9b1e-6d86ccb5b5df" />
+
+
 
 A IA propôs seis seções: apresentação, formação, ferramentas, projetos em destaque, o que eu trago e contato. Antes de ela começar, pedi para destacar a experiência em vendas como diferencial (visão de negócio) e para colocar os projetos logo depois das ferramentas, porque é o que o recrutador quer ver primeiro.
 
 ### O Resultado
-
-_[Cole aqui o print do resultado]_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5a9869d-68c5-47e5-a66b-d0031762b989" />
 
 Conferi com o **Pare, Confira, Use**: chequei se toda a formação e as ferramentas listadas eram verdadeiras, abri os links dos dois projetos para ver se apontavam para os repositórios certos e testei os badges no preview do GitHub. Encontrei um espaço reservado no link do LinkedIn, que eu mesma preencho antes de publicar.
 
